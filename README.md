@@ -1,5 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdimado)](https://git.io/streak-stats)
+
 <h5 align="center">Languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  />
