@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<div align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=mdimado)](https://git.io/streak-stats)
-</div>
+
 
 <h5 align="center">Languages</h3>
 <div align="center">
