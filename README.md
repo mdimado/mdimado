@@ -4,6 +4,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=mdimado&theme=dark" alt="GitHub Streak" />
   </a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=mdimado&color=blue)
 </div>
  
 
