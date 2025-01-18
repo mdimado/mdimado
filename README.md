@@ -43,6 +43,9 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=123477562)
 
+![](https://raw.githubusercontent.com/mdimado/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mdimado/stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 <br><br>
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdimado&amp;layout=donut&amp;langs_count=7&theme=transparent" alt="Language Stats"></p>
