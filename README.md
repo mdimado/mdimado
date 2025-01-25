@@ -2,7 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/mdimado/count.svg" alt="Visitor's Count" />
 </div>
-
+<br/>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=mdimado&theme=dark" alt="GitHub Streak" />
