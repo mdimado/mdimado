@@ -1,4 +1,7 @@
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/mdimado/count.svg" alt="Visitor's Count" />
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
