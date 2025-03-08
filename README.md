@@ -12,7 +12,12 @@
 
 <h5 align="center">Languages</h3>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=go,js,html,css,python)](https://skillicons.dev)
+  ### Skill icons:
+[![My Skills](https://skillicons.dev/icons?i=go,python,html,css,js)](https://skillicons.dev)    
+&nbsp;
+&nbsp;     
+&nbsp;  
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&theme=dark&show_icons=true&count_private=true" width="400">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="js logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
